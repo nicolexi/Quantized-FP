@@ -1,1 +1,2 @@
 # Quantized-FP
+Matlab implementation of paper: Quantized_Fourier_ptychography_with_binary_images_from_SPAD_cameras_Redline
